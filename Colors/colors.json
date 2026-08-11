@@ -1,0 +1,33 @@
+{
+  "brand": "Visernic",
+  "colors": [
+    {
+      "name": "Azure Blue",
+      "hex": "#0087FF",
+      "rgb": "rgb(0, 135, 255)",
+      "hsl": "hsl(208, 100%, 50%)",
+      "cmyk": "cmyk(100%, 47%, 0%, 0%)"
+    },
+    {
+      "name": "Midnight Blue",
+      "hex": "#05073B",
+      "rgb": "rgb(5, 7, 59)",
+      "hsl": "hsl(238, 84%, 13%)",
+      "cmyk": "cmyk(92%, 88%, 0%, 77%)"
+    },
+    {
+      "name": "Royal Blue",
+      "hex": "#0B6EE0",
+      "rgb": "rgb(11, 110, 224)",
+      "hsl": "hsl(212, 91%, 46%)",
+      "cmyk": "cmyk(95%, 51%, 0%, 12%)"
+    },
+    {
+      "name": "White",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "cmyk": "cmyk(0%, 0%, 0%, 0%)"
+    }
+  ]
+}
