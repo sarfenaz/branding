@@ -1,4 +1,4 @@
-# 🎨 Visernic Brand Colors
+# 🎨 Visernic Brand Colors Palette.
 
 Welcome to the official brand color guidelines for **Visernic**. Below are the core colors used for our logo and brand identity.
 
@@ -10,4 +10,4 @@ Welcome to the official brand color guidelines for **Visernic**. Below are the c
 | <img src="https://placehold.co/120x40/FFFFFF/FFFFFF.png" width="120" height="40" style="border-radius:6px; border:1px solid #ddd;"> | ` #FFFFFF ` | **White** | `255, 255, 255` | `0, 0, 100` | `0, 0, 0, 0` |
 
 ---
-*Visernic Brand Colors.*
+*Visernic Official Brand Color Palette.*
